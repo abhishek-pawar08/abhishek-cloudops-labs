@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-pawar08&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-pawar08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-pawar08" alt="abhishek-pawar08" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="D:\Abhi\DOCUMENTS/Github Logo" alt="abhishek-pawar08" /></a> </p>
 
 - 🌱 I’m currently learning **Azure and GCP cloud services, Microsoft Intune, and infrastructure automation**
 
